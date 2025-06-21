@@ -18,9 +18,9 @@ print(a.endswith("!!!"))
 
 age = int(input('Enter your Age:'))
 if age < 18:
-  print('Cant Vote, Your underage Motherfucker')
+  print('Cant Vote, Your underage ')
 elif age > 18:
-    print('You can vote bitch')
+    print('You can vote')
 else:
     print('Invalid age')
 
