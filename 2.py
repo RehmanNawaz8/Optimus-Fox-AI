@@ -1,5 +1,5 @@
 c= input("Enter your name: ")
-a= "!Rehman!!!"
+a= "!Rehman,!!!"
 print(len(c))
 print(c.upper())
 print(c.lower())
